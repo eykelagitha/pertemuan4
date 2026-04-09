@@ -13,4 +13,4 @@ Tugas praktikum Minggu 4 - State & Events.
 - **Toggle Color:** State `colorIndex` bersiklus melewati array `COLORS` menggunakan modulo `(prev + 1) % COLORS.length`, mengubah `backgroundColor` seluruh layar secara dinamis.
 
 ## 🔗 Demo
-[Cek di Expo Snack](https://snack.expo.dev/@eykel21/93053alink_snack_anda)
+[Cek di Expo Snack](https://snack.expo.dev/@eykel21/93053a)
