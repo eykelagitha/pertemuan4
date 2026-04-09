@@ -2,7 +2,7 @@
 Tugas praktikum Minggu 4 - State & Events.
 
 ## 📸 Preview
-![App Screenshot](pertemuan4\assets\Bukti screenshot P4.jpeg)
+![App Screenshot](assets/Bukti screenshot P4.jpeg)
 
 ## 🛠️ Logic Implemented
 
